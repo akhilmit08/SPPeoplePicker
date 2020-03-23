@@ -1,0 +1,14 @@
+li.list-group-item {
+  border-radius: 0 !important;
+  border-bottom: 1px solid #ddd;
+  padding: 5px !important;
+}
+
+.list-group {
+  margin-bottom: 2px !important;
+}
+
+.alignUsers {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
